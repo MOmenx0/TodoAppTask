@@ -16,7 +16,7 @@ namespace AGI.Morn.Infrastructure
     {
         public static IServiceCollection AddInfrastrctureServices(this IServiceCollection services, IConfiguration configuration)
         {
-            string DefaultConnecation = configuration.GetConnectionString("MornAgiConnecation");
+            string DefaultConnecation = configuration.GetConnectionString("Connecation");
             services.AddDbContext<ApplicationDbContext>(options =>
             {
                 options.UseSqlServer(DefaultConnecation);

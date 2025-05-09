@@ -37,3 +37,23 @@ E:\demo\back-end\Morn Agi Back-End\Infrastructure\obj\Debug\net8.0\refint\Infras
 E:\demo\back-end\Morn Agi Back-End\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 E:\demo\back-end\Morn Agi Back-End\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
 E:\demo\back-end\Morn Agi Back-End\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Infrastructure\bin\Debug\net8.0\Application.dll
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Infrastructure\bin\Debug\net8.0\Domain.dll
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Infrastructure\bin\Debug\net8.0\Application.pdb
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Infrastructure\bin\Debug\net8.0\Domain.pdb
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

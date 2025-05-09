@@ -21,3 +21,15 @@ E:\demo\back-end\Morn Agi Back-End\Domain\obj\Debug\net8.0\Domain.dll
 E:\demo\back-end\Morn Agi Back-End\Domain\obj\Debug\net8.0\refint\Domain.dll
 E:\demo\back-end\Morn Agi Back-End\Domain\obj\Debug\net8.0\Domain.pdb
 E:\demo\back-end\Morn Agi Back-End\Domain\obj\Debug\net8.0\ref\Domain.dll
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Domain\bin\Debug\net8.0\Domain.dll
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Domain\bin\Debug\net8.0\Domain.pdb
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Domain\obj\Debug\net8.0\Domain.dll
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Domain\obj\Debug\net8.0\Domain.pdb
+E:\demo\ToDoAppTask\TodoAppTask\ToDoAppTask (Back-end)\Domain\obj\Debug\net8.0\ref\Domain.dll
