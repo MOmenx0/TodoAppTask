@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "69ICIv/zQGg=",
+  "dgSpecHash": "oUAqZXWug1M=",
   "success": true,
-  "projectFilePath": "E:\\demo\\back-end\\Morn Agi Back-End\\Application\\Application.csproj",
+  "projectFilePath": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\11\\.nuget\\packages\\ardalis.guardclauses\\5.0.0\\ardalis.guardclauses.5.0.0.nupkg.sha512",
     "C:\\Users\\11\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",

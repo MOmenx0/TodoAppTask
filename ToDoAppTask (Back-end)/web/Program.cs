@@ -15,17 +15,14 @@ builder.Services.AddApplicationServices();
 builder.Services.AddControllers()
     .AddJsonOptions(options =>
     {
-        // This allows for camelCase property names in JSON
         options.JsonSerializerOptions.PropertyNamingPolicy = System.Text.Json.JsonNamingPolicy.CamelCase;
 
-        // Makes enum values serialize as strings instead of numbers AND accept both string and number input
         options.JsonSerializerOptions.Converters.Add(new System.Text.Json.Serialization.JsonStringEnumConverter(
-            namingPolicy: null, // null means use the enum's names exactly as they are
-            allowIntegerValues: true // allow both numeric and string values
+            namingPolicy: null, 
+            allowIntegerValues: true 
         ));
     });
 
-// If you're using minimal API, add this as well
 builder.Services.Configure<Microsoft.AspNetCore.Http.Json.JsonOptions>(options =>
 {
     options.SerializerOptions.PropertyNamingPolicy = System.Text.Json.JsonNamingPolicy.CamelCase;

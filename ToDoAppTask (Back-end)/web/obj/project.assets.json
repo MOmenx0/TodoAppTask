@@ -7387,11 +7387,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\demo\\back-end\\Morn Agi Back-End\\Web\\Web.csproj",
+      "projectUniqueName": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "E:\\demo\\back-end\\Morn Agi Back-End\\Web\\Web.csproj",
+      "projectPath": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\11\\.nuget\\packages\\",
-      "outputPath": "E:\\demo\\back-end\\Morn Agi Back-End\\Web\\obj\\",
+      "outputPath": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7412,11 +7412,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\demo\\back-end\\Morn Agi Back-End\\Application\\Application.csproj": {
-              "projectPath": "E:\\demo\\back-end\\Morn Agi Back-End\\Application\\Application.csproj"
+            "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Application\\Application.csproj": {
+              "projectPath": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Application\\Application.csproj"
             },
-            "E:\\demo\\back-end\\Morn Agi Back-End\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "E:\\demo\\back-end\\Morn Agi Back-End\\Infrastructure\\Infrastructure.csproj"
+            "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

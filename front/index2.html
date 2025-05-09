@@ -15,7 +15,6 @@
   <div class="container">
     <h2 class="mb-4">Todo Management</h2>
 
-    <!-- Filter by status -->
     <div class="mb-3">
       <label for="statusFilter" class="form-label">Filter by Status:</label>
       <select id="statusFilter" class="form-select" onchange="loadTodos()">
@@ -26,7 +25,7 @@
       </select>
     </div>
 
-    <!-- Todo form -->
+    <!--   form -->
     <div class="card form-section">
       <div class="card-body">
         <h5 id="formTitle">Add Todo</h5>
@@ -66,7 +65,7 @@
       </div>
     </div>
 
-    <!-- Todo table -->
+    <!--table -->
     <table class="table table-bordered">
       <thead>
         <tr>
@@ -115,13 +114,11 @@
   e.preventDefault();
   const id = document.getElementById('todoId').value;
   
-  // Get the numeric value from the select
   const priorityNumValue = document.getElementById('priority').value;
   
   const todo = {
     title: document.getElementById('title').value,
     description: document.getElementById('description').value,
-    // Send the string representation of the enum
     priority: priorityMapping[priorityNumValue],
     dueDate: document.getElementById('dueDate').value || null
   };
@@ -129,7 +126,6 @@
   const method = id ? 'PUT' : 'POST';
   const url = id ? `${baseUrl}/Update/${id}` : `${baseUrl}/CreateTodo`;
 
-  // Debug what's being sent
   const requestBody = JSON.stringify(todo);
   console.log('Submitting todo:', requestBody);
   console.log('Todo object:', todo);

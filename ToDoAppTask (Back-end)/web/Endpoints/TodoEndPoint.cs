@@ -15,7 +15,6 @@ namespace Morn_Agi.Endpoints
         {
             var group = app.MapGroup(nameof(TodoEndPoint));
 
-            // Register endpoints within the group
             group.MapPost("/CreateTodo", CreateTodo).WithName(nameof(CreateTodo));
             group.MapGet("/GetTodos", GetTodos).WithName(nameof(GetTodos));
             group.MapGet("/GetAllTodos", GetAllTodos).WithName(nameof(GetAllTodos));
@@ -39,7 +38,6 @@ namespace Morn_Agi.Endpoints
             }
             catch (Exception ex)
             {
-                // Log the exception
                 Console.WriteLine($"Error creating todo: {ex.Message}");
                 return Results.Problem($"Error creating todo: {ex.Message}");
             }

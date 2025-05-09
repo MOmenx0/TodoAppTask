@@ -26,7 +26,7 @@ namespace Application.UseCases.ToDoCases.Queries
 
         public async Task<DataResponse<IEnumerable<TodoDto>>> Handle(GetAllTodosQuery request, CancellationToken cancellationToken)
         {
-            var todos = await _unitOfWork.ToDoRepository.GetAllAsync(); // no filter
+            var todos = await _unitOfWork.ToDoRepository.GetAllAsync();
             var result = _mapper.Map<IEnumerable<TodoDto>>(todos);
             return new DataResponse<IEnumerable<TodoDto>>
             {

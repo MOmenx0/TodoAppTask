@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6022633F-0F67-4D8D-8479-C05BE17E3D7F}|Application\\Application.csproj|e:\\demo\\todoapptask\\todoapptask\\todoapptask (back-end)\\application\\dependencyinjecrtion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6022633F-0F67-4D8D-8479-C05BE17E3D7F}|Application\\Application.csproj|solutionrelative:application\\dependencyinjecrtion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6022633F-0F67-4D8D-8479-C05BE17E3D7F}|Application\\Application.csproj|e:\\demo\\todoapptask\\todoapptask\\todoapptask (back-end)\\application\\usecases\\todocases\\queries\\gettodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6022633F-0F67-4D8D-8479-C05BE17E3D7F}|Application\\Application.csproj|solutionrelative:application\\usecases\\todocases\\queries\\gettodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6022633F-0F67-4D8D-8479-C05BE17E3D7F}|Application\\Application.csproj|e:\\demo\\todoapptask\\todoapptask\\todoapptask (back-end)\\application\\usecases\\todocases\\queries\\getalltodosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6022633F-0F67-4D8D-8479-C05BE17E3D7F}|Application\\Application.csproj|solutionrelative:application\\usecases\\todocases\\queries\\getalltodosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6022633F-0F67-4D8D-8479-C05BE17E3D7F}|Application\\Application.csproj|e:\\demo\\todoapptask\\todoapptask\\todoapptask (back-end)\\application\\usecases\\todocases\\dto\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6022633F-0F67-4D8D-8479-C05BE17E3D7F}|Application\\Application.csproj|solutionrelative:application\\usecases\\todocases\\dto\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6022633F-0F67-4D8D-8479-C05BE17E3D7F}|Application\\Application.csproj|e:\\demo\\todoapptask\\todoapptask\\todoapptask (back-end)\\application\\usecases\\todocases\\dto\\validation\\createtodocommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6022633F-0F67-4D8D-8479-C05BE17E3D7F}|Application\\Application.csproj|solutionrelative:application\\usecases\\todocases\\dto\\validation\\createtodocommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6022633F-0F67-4D8D-8479-C05BE17E3D7F}|Application\\Application.csproj|e:\\demo\\todoapptask\\todoapptask\\todoapptask (back-end)\\application\\usecases\\todocases\\command\\updatetodocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6022633F-0F67-4D8D-8479-C05BE17E3D7F}|Application\\Application.csproj|solutionrelative:application\\usecases\\todocases\\command\\updatetodocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6022633F-0F67-4D8D-8479-C05BE17E3D7F}|Application\\Application.csproj|e:\\demo\\todoapptask\\todoapptask\\todoapptask (back-end)\\application\\usecases\\todocases\\command\\marktodocompletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6022633F-0F67-4D8D-8479-C05BE17E3D7F}|Application\\Application.csproj|solutionrelative:application\\usecases\\todocases\\command\\marktodocompletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6022633F-0F67-4D8D-8479-C05BE17E3D7F}|Application\\Application.csproj|e:\\demo\\todoapptask\\todoapptask\\todoapptask (back-end)\\application\\usecases\\todocases\\command\\deletetodocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6022633F-0F67-4D8D-8479-C05BE17E3D7F}|Application\\Application.csproj|solutionrelative:application\\usecases\\todocases\\command\\deletetodocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6022633F-0F67-4D8D-8479-C05BE17E3D7F}|Application\\Application.csproj|e:\\demo\\todoapptask\\todoapptask\\todoapptask (back-end)\\application\\usecases\\todocases\\command\\createtodocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6022633F-0F67-4D8D-8479-C05BE17E3D7F}|Application\\Application.csproj|solutionrelative:application\\usecases\\todocases\\command\\createtodocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA321DA-BA7D-4FBA-BF62-D9F96AB8CAEA}|Infrastructure\\Infrastructure.csproj|e:\\demo\\todoapptask\\todoapptask\\todoapptask (back-end)\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA321DA-BA7D-4FBA-BF62-D9F96AB8CAEA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A591A5-3CC7-4AC3-AD8C-1913A29ABA31}|Web\\Web.csproj|e:\\demo\\todoapptask\\todoapptask\\todoapptask (back-end)\\web\\endpoints\\todoendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A591A5-3CC7-4AC3-AD8C-1913A29ABA31}|Web\\Web.csproj|solutionrelative:web\\endpoints\\todoendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A591A5-3CC7-4AC3-AD8C-1913A29ABA31}|Web\\Web.csproj|e:\\demo\\todoapptask\\todoapptask\\todoapptask (back-end)\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A591A5-3CC7-4AC3-AD8C-1913A29ABA31}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjecrtion.cs",
+              "DocumentMoniker": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Application\\DependencyInjecrtion.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjecrtion.cs",
+              "ToolTip": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Application\\DependencyInjecrtion.cs",
+              "RelativeToolTip": "Application\\DependencyInjecrtion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:05:58.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetTodos.cs",
+              "DocumentMoniker": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Application\\UseCases\\ToDoCases\\Queries\\GetTodos.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\ToDoCases\\Queries\\GetTodos.cs",
+              "ToolTip": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Application\\UseCases\\ToDoCases\\Queries\\GetTodos.cs",
+              "RelativeToolTip": "Application\\UseCases\\ToDoCases\\Queries\\GetTodos.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:05:49.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllTodosQuery.cs",
+              "DocumentMoniker": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Application\\UseCases\\ToDoCases\\Queries\\GetAllTodosQuery.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\ToDoCases\\Queries\\GetAllTodosQuery.cs",
+              "ToolTip": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Application\\UseCases\\ToDoCases\\Queries\\GetAllTodosQuery.cs",
+              "RelativeToolTip": "Application\\UseCases\\ToDoCases\\Queries\\GetAllTodosQuery.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:05:42.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoDto.cs",
+              "DocumentMoniker": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Application\\UseCases\\ToDoCases\\Dto\\TodoDto.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\ToDoCases\\Dto\\TodoDto.cs",
+              "ToolTip": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Application\\UseCases\\ToDoCases\\Dto\\TodoDto.cs",
+              "RelativeToolTip": "Application\\UseCases\\ToDoCases\\Dto\\TodoDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:05:34.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateTodoCommandValidator.cs",
+              "DocumentMoniker": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Application\\UseCases\\ToDoCases\\Dto\\Validation\\CreateTodoCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\ToDoCases\\Dto\\Validation\\CreateTodoCommandValidator.cs",
+              "ToolTip": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Application\\UseCases\\ToDoCases\\Dto\\Validation\\CreateTodoCommandValidator.cs",
+              "RelativeToolTip": "Application\\UseCases\\ToDoCases\\Dto\\Validation\\CreateTodoCommandValidator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:05:32.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateTodoCommand.cs",
+              "DocumentMoniker": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Application\\UseCases\\ToDoCases\\Command\\UpdateTodoCommand.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\ToDoCases\\Command\\UpdateTodoCommand.cs",
+              "ToolTip": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Application\\UseCases\\ToDoCases\\Command\\UpdateTodoCommand.cs",
+              "RelativeToolTip": "Application\\UseCases\\ToDoCases\\Command\\UpdateTodoCommand.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:05:25.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MarkTodoCompleteCommand.cs",
+              "DocumentMoniker": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Application\\UseCases\\ToDoCases\\Command\\MarkTodoCompleteCommand.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\ToDoCases\\Command\\MarkTodoCompleteCommand.cs",
+              "ToolTip": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Application\\UseCases\\ToDoCases\\Command\\MarkTodoCompleteCommand.cs",
+              "RelativeToolTip": "Application\\UseCases\\ToDoCases\\Command\\MarkTodoCompleteCommand.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:05:22.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteTodoCommand.cs",
+              "DocumentMoniker": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Application\\UseCases\\ToDoCases\\Command\\DeleteTodoCommand.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\ToDoCases\\Command\\DeleteTodoCommand.cs",
+              "ToolTip": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Application\\UseCases\\ToDoCases\\Command\\DeleteTodoCommand.cs",
+              "RelativeToolTip": "Application\\UseCases\\ToDoCases\\Command\\DeleteTodoCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:05:17.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateTodoCommand.cs",
+              "DocumentMoniker": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Application\\UseCases\\ToDoCases\\Command\\CreateTodoCommand.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\ToDoCases\\Command\\CreateTodoCommand.cs",
+              "ToolTip": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Application\\UseCases\\ToDoCases\\Command\\CreateTodoCommand.cs",
+              "RelativeToolTip": "Application\\UseCases\\ToDoCases\\Command\\CreateTodoCommand.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:05:12.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:04:49.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TodoEndPoint.cs",
+              "DocumentMoniker": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\web\\Endpoints\\TodoEndPoint.cs",
+              "RelativeDocumentMoniker": "web\\Endpoints\\TodoEndPoint.cs",
+              "ToolTip": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\web\\Endpoints\\TodoEndPoint.cs",
+              "RelativeToolTip": "web\\Endpoints\\TodoEndPoint.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:04:31.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\web\\Program.cs",
+              "RelativeDocumentMoniker": "web\\Program.cs",
+              "ToolTip": "E:\\demo\\ToDoAppTask\\TodoAppTask\\ToDoAppTask (Back-end)\\web\\Program.cs",
+              "RelativeToolTip": "web\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:04:00.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
