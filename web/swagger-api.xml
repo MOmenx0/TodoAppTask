@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiAuthDemo</name>
+    </assembly>
+    <members>
+        <member name="M:ApiAuthDemo.Controllers.AccountController.Login(ApiAuthDemo.Controllers.LoginRequest)">
+            <summary>
+            JWT login
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="P:ApiAuthDemo.Controllers.LoginRequest.UserName">
+            <summary>
+            
+            </summary>
+            <example>admin</example>
+        </member>
+        <member name="P:ApiAuthDemo.Controllers.LoginRequest.Password">
+            <summary>
+            
+            </summary>
+            <example>securePassword</example>
+        </member>
+        <member name="P:ApiAuthDemo.Controllers.LoginResult.UserName">
+            <summary>
+            
+            </summary>
+            <example>admin</example>
+        </member>
+        <member name="M:ApiAuthDemo.Controllers.ValuesController.Get">
+            <summary>
+            API allows anonymous
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ApiAuthDemo.Controllers.ValuesController.JwtAuth">
+            <summary>
+            API requires JWT auth
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ApiAuthDemo.Controllers.ValuesController.BasicAuth">
+            <summary>
+            API requires Basic auth
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

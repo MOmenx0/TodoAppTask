@@ -1,0 +1,163 @@
+[
+  {
+    "ContainingType": "Program\u002B\u003C\u003Ec",
+    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_4",
+    "RelativePath": "debug/routes",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Morn_Agi.Endpoints.TodoEndPoint",
+    "Method": "MarkAsComplete",
+    "RelativePath": "TodoEndPoint/complete/{id}",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AGI.Morn.Application.Common.Models.DataResponse\u00601[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "MarkAsComplete"
+  },
+  {
+    "ContainingType": "Morn_Agi.Endpoints.TodoEndPoint",
+    "Method": "CreateTodo",
+    "RelativePath": "TodoEndPoint/CreateTodo",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.UseCases.ToDoCases.Command.CreateTodoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "CreateTodo"
+  },
+  {
+    "ContainingType": "Morn_Agi.Endpoints.TodoEndPoint",
+    "Method": "Delete",
+    "RelativePath": "TodoEndPoint/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AGI.Morn.Application.Common.Models.DataResponse\u00601[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "Delete"
+  },
+  {
+    "ContainingType": "Morn_Agi.Endpoints.TodoEndPoint",
+    "Method": "GetAllTodos",
+    "RelativePath": "TodoEndPoint/GetAllTodos",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AGI.Morn.Application.Common.Models.DataResponse\u00601[[System.Collections.Generic.IEnumerable\u00601[[Application.UseCases.ToDoCases.Dto.TodoDto, Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetAllTodos"
+  },
+  {
+    "ContainingType": "Morn_Agi.Endpoints.TodoEndPoint",
+    "Method": "GetTodos",
+    "RelativePath": "TodoEndPoint/GetTodos",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Status",
+        "Type": "System.Nullable\u00601[[Domain.Enums.TodoStatus, Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetTodos"
+  },
+  {
+    "ContainingType": "Morn_Agi.Endpoints.TodoEndPoint",
+    "Method": "Update",
+    "RelativePath": "TodoEndPoint/Update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "Application.UseCases.ToDoCases.Command.UpdateTodoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AGI.Morn.Application.Common.Models.DataResponse\u00601[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "Update"
+  }
+]

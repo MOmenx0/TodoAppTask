@@ -1,0 +1,689 @@
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\appsettings.json
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\swaggerfile.json
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\AGIMorn.web.exe
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\AGIMorn.web.deps.json
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\AGIMorn.web.runtimeconfig.json
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\AGIMorn.web.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\AGIMorn.web.pdb
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Ardalis.GuardClauses.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Humanizer.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\MediatR.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Namotion.Reflection.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\NJsonSchema.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\NJsonSchema.Annotations.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\NJsonSchema.NewtonsoftJson.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\NJsonSchema.Yaml.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\NSwag.Annotations.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\NSwag.AspNetCore.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\NSwag.Core.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\NSwag.Core.Yaml.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\NSwag.Generation.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\NSwag.Generation.AspNetCore.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\YamlDotNet.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\AGI.Morn.Application.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\AGI.Morn.Domain.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\AGI.Morn.Infrastructure.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\AGI.Morn.Application.pdb
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\AGI.Morn.Infrastructure.pdb
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\AGI.Morn.Domain.pdb
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\obj\Debug\net8.0\AGIMorn.web.csproj.AssemblyReference.cache
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\obj\Debug\net8.0\AGIMorn.web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\obj\Debug\net8.0\AGIMorn.web.AssemblyInfoInputs.cache
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\obj\Debug\net8.0\AGIMorn.web.AssemblyInfo.cs
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\obj\Debug\net8.0\AGIMorn.web.csproj.CoreCompileInputs.cache
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\obj\Debug\net8.0\AGIMorn.web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\obj\Debug\net8.0\AGIMorn.web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\obj\Debug\net8.0\staticwebassets\msbuild.AGIMorn.web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\obj\Debug\net8.0\staticwebassets\msbuild.build.AGIMorn.web.props
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AGIMorn.web.props
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AGIMorn.web.props
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\obj\Debug\net8.0\scopedcss\bundle\AGIMorn.web.styles.css
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\obj\Debug\net8.0\AGIMorn..FCC4C4C7.Up2Date
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\obj\Debug\net8.0\AGIMorn.web.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\obj\Debug\net8.0\refint\AGIMorn.web.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\obj\Debug\net8.0\AGIMorn.web.pdb
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\obj\Debug\net8.0\AGIMorn.web.genruntimeconfig.cache
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\obj\Debug\net8.0\ref\AGIMorn.web.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\AGI\source\repos\Morn Agi\Morn Agi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\appsettings.Development.json
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\appsettings.json
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\swaggerfile.json
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\AGIMorn.web.exe
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\AGIMorn.web.deps.json
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\AGIMorn.web.runtimeconfig.json
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\AGIMorn.web.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\AGIMorn.web.pdb
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Ardalis.GuardClauses.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Azure.Core.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Azure.Identity.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\FluentValidation.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Humanizer.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\MediatR.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Namotion.Reflection.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\NJsonSchema.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\NJsonSchema.Annotations.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\NJsonSchema.NewtonsoftJson.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\NJsonSchema.Yaml.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\NSwag.Annotations.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\NSwag.AspNetCore.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\NSwag.Core.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\NSwag.Core.Yaml.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\NSwag.Generation.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\NSwag.Generation.AspNetCore.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\System.CodeDom.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\YamlDotNet.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\AGI.Morn.Application.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\AGI.Morn.Domain.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\AGI.Morn.Infrastructure.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\AGI.Morn.Application.pdb
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\AGI.Morn.Infrastructure.pdb
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\AGI.Morn.Domain.pdb
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\obj\Debug\net8.0\AGIMorn.web.csproj.AssemblyReference.cache
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\obj\Debug\net8.0\AGIMorn.web.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\obj\Debug\net8.0\AGIMorn.web.AssemblyInfoInputs.cache
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\obj\Debug\net8.0\AGIMorn.web.AssemblyInfo.cs
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\obj\Debug\net8.0\AGIMorn.web.csproj.CoreCompileInputs.cache
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\obj\Debug\net8.0\AGIMorn.web.MvcApplicationPartsAssemblyInfo.cs
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\obj\Debug\net8.0\AGIMorn.web.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\obj\Debug\net8.0\staticwebassets.build.json
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\obj\Debug\net8.0\staticwebassets.development.json
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\obj\Debug\net8.0\staticwebassets\msbuild.AGIMorn.web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\obj\Debug\net8.0\staticwebassets\msbuild.build.AGIMorn.web.props
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AGIMorn.web.props
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AGIMorn.web.props
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\obj\Debug\net8.0\scopedcss\bundle\AGIMorn.web.styles.css
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\obj\Debug\net8.0\AGIMorn..FCC4C4C7.Up2Date
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\obj\Debug\net8.0\AGIMorn.web.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\obj\Debug\net8.0\refint\AGIMorn.web.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\obj\Debug\net8.0\AGIMorn.web.pdb
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\obj\Debug\net8.0\AGIMorn.web.genruntimeconfig.cache
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\obj\Debug\net8.0\ref\AGIMorn.web.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\AutoMapper.dll
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\AGIMorn.web.staticwebassets.runtime.json
+D:\.NET8 Seat Project\Morn Agi\Morn Agi\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\appsettings.Development.json
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\appsettings.json
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\swaggerfile.json
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGIMorn.web.staticwebassets.runtime.json
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGIMorn.web.exe
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGIMorn.web.deps.json
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGIMorn.web.runtimeconfig.json
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGIMorn.web.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGIMorn.web.pdb
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Ardalis.GuardClauses.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AutoMapper.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Azure.Core.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Azure.Identity.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\FluentValidation.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Humanizer.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\MediatR.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Namotion.Reflection.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\NJsonSchema.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\NJsonSchema.Annotations.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\NJsonSchema.NewtonsoftJson.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\NJsonSchema.Yaml.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\NSwag.Annotations.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\NSwag.AspNetCore.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\NSwag.Core.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\NSwag.Core.Yaml.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\NSwag.Generation.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\NSwag.Generation.AspNetCore.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.CodeDom.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\YamlDotNet.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGI.Morn.Application.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGI.Morn.Domain.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGI.Morn.Infrastructure.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGI.Morn.Application.pdb
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGI.Morn.Infrastructure.pdb
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGI.Morn.Domain.pdb
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn.web.csproj.AssemblyReference.cache
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn.web.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn.web.AssemblyInfoInputs.cache
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn.web.AssemblyInfo.cs
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn.web.csproj.CoreCompileInputs.cache
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn.web.MvcApplicationPartsAssemblyInfo.cs
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn.web.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\staticwebassets.build.json
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\staticwebassets.development.json
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\staticwebassets\msbuild.AGIMorn.web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\staticwebassets\msbuild.build.AGIMorn.web.props
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AGIMorn.web.props
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AGIMorn.web.props
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\scopedcss\bundle\AGIMorn.web.styles.css
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn..FCC4C4C7.Up2Date
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn.web.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\refint\AGIMorn.web.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn.web.pdb
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn.web.genruntimeconfig.cache
+D:\.NET8 Seat Project\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\ref\AGIMorn.web.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\appsettings.Development.json
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\appsettings.json
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\swaggerfile.json
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGIMorn.web.staticwebassets.endpoints.json
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGIMorn.web.exe
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGIMorn.web.deps.json
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGIMorn.web.runtimeconfig.json
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGIMorn.web.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGIMorn.web.pdb
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Ardalis.GuardClauses.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AutoMapper.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Azure.Core.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Azure.Identity.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\FluentValidation.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Humanizer.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\MediatR.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\MediatR.Contracts.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Namotion.Reflection.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\NJsonSchema.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\NJsonSchema.Annotations.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\NJsonSchema.NewtonsoftJson.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\NJsonSchema.Yaml.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\NSwag.Annotations.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\NSwag.AspNetCore.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\NSwag.Core.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\NSwag.Core.Yaml.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\NSwag.Generation.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\NSwag.Generation.AspNetCore.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.CodeDom.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Memory.Data.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\YamlDotNet.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGI.Morn.Application.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGI.Morn.Domain.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGI.Morn.Infrastructure.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGI.Morn.Application.pdb
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGI.Morn.Infrastructure.pdb
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\bin\Debug\net8.0\AGI.Morn.Domain.pdb
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn.web.csproj.AssemblyReference.cache
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn.web.GeneratedMSBuildEditorConfig.editorconfig
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn.web.AssemblyInfoInputs.cache
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn.web.AssemblyInfo.cs
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn.web.csproj.CoreCompileInputs.cache
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn.web.MvcApplicationPartsAssemblyInfo.cs
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn.web.MvcApplicationPartsAssemblyInfo.cache
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn.web.sourcelink.json
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\scopedcss\bundle\AGIMorn.web.styles.css
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\staticwebassets.build.json
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\staticwebassets.development.json
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\staticwebassets\msbuild.AGIMorn.web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\staticwebassets\msbuild.AGIMorn.web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\staticwebassets\msbuild.build.AGIMorn.web.props
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AGIMorn.web.props
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AGIMorn.web.props
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\staticwebassets.pack.json
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn..FCC4C4C7.Up2Date
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn.web.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\refint\AGIMorn.web.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn.web.pdb
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\AGIMorn.web.genruntimeconfig.cache
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\Morn Agi\obj\Debug\net8.0\ref\AGIMorn.web.dll

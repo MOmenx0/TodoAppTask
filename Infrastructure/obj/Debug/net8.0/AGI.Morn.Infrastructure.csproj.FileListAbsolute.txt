@@ -1,0 +1,77 @@
+C:\Users\AGI\source\repos\Morn Agi\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Infrastructure.deps.json
+C:\Users\AGI\source\repos\Morn Agi\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Infrastructure.runtimeconfig.json
+C:\Users\AGI\source\repos\Morn Agi\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Infrastructure.dll
+C:\Users\AGI\source\repos\Morn Agi\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Infrastructure.pdb
+C:\Users\AGI\source\repos\Morn Agi\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Application.dll
+C:\Users\AGI\source\repos\Morn Agi\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Domain.dll
+C:\Users\AGI\source\repos\Morn Agi\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Application.pdb
+C:\Users\AGI\source\repos\Morn Agi\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Domain.pdb
+C:\Users\AGI\source\repos\Morn Agi\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\AGI\source\repos\Morn Agi\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGI\source\repos\Morn Agi\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AGI\source\repos\Morn Agi\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.AssemblyInfo.cs
+C:\Users\AGI\source\repos\Morn Agi\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AGI\source\repos\Morn Agi\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.D8605A4B.Up2Date
+C:\Users\AGI\source\repos\Morn Agi\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.dll
+C:\Users\AGI\source\repos\Morn Agi\AGIMorn.Infrastructure\obj\Debug\net8.0\refint\AGI.Morn.Infrastructure.dll
+C:\Users\AGI\source\repos\Morn Agi\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.pdb
+C:\Users\AGI\source\repos\Morn Agi\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.genruntimeconfig.cache
+C:\Users\AGI\source\repos\Morn Agi\AGIMorn.Infrastructure\obj\Debug\net8.0\ref\AGI.Morn.Infrastructure.dll
+D:\.NET8 Seat Project\Morn Agi\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Infrastructure.deps.json
+D:\.NET8 Seat Project\Morn Agi\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Infrastructure.runtimeconfig.json
+D:\.NET8 Seat Project\Morn Agi\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Infrastructure.dll
+D:\.NET8 Seat Project\Morn Agi\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Infrastructure.pdb
+D:\.NET8 Seat Project\Morn Agi\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Application.dll
+D:\.NET8 Seat Project\Morn Agi\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Domain.dll
+D:\.NET8 Seat Project\Morn Agi\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Application.pdb
+D:\.NET8 Seat Project\Morn Agi\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Domain.pdb
+D:\.NET8 Seat Project\Morn Agi\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.csproj.AssemblyReference.cache
+D:\.NET8 Seat Project\Morn Agi\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET8 Seat Project\Morn Agi\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.AssemblyInfoInputs.cache
+D:\.NET8 Seat Project\Morn Agi\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.AssemblyInfo.cs
+D:\.NET8 Seat Project\Morn Agi\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.csproj.CoreCompileInputs.cache
+D:\.NET8 Seat Project\Morn Agi\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.D8605A4B.Up2Date
+D:\.NET8 Seat Project\Morn Agi\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.dll
+D:\.NET8 Seat Project\Morn Agi\AGIMorn.Infrastructure\obj\Debug\net8.0\refint\AGI.Morn.Infrastructure.dll
+D:\.NET8 Seat Project\Morn Agi\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.pdb
+D:\.NET8 Seat Project\Morn Agi\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.genruntimeconfig.cache
+D:\.NET8 Seat Project\Morn Agi\AGIMorn.Infrastructure\obj\Debug\net8.0\ref\AGI.Morn.Infrastructure.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Infrastructure.deps.json
+D:\.NET8 Seat Project\Morn Agi Back-End\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Infrastructure.runtimeconfig.json
+D:\.NET8 Seat Project\Morn Agi Back-End\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Infrastructure.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Infrastructure.pdb
+D:\.NET8 Seat Project\Morn Agi Back-End\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Application.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Domain.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Application.pdb
+D:\.NET8 Seat Project\Morn Agi Back-End\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Domain.pdb
+D:\.NET8 Seat Project\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.csproj.AssemblyReference.cache
+D:\.NET8 Seat Project\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET8 Seat Project\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.AssemblyInfoInputs.cache
+D:\.NET8 Seat Project\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.AssemblyInfo.cs
+D:\.NET8 Seat Project\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.csproj.CoreCompileInputs.cache
+D:\.NET8 Seat Project\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.D8605A4B.Up2Date
+D:\.NET8 Seat Project\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\refint\AGI.Morn.Infrastructure.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.pdb
+D:\.NET8 Seat Project\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.genruntimeconfig.cache
+D:\.NET8 Seat Project\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\ref\AGI.Morn.Infrastructure.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Infrastructure.deps.json
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Infrastructure.runtimeconfig.json
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Infrastructure.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Infrastructure.pdb
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Application.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Domain.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Application.pdb
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGIMorn.Infrastructure\bin\Debug\net8.0\AGI.Morn.Domain.pdb
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.csproj.AssemblyReference.cache
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.AssemblyInfoInputs.cache
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.AssemblyInfo.cs
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.csproj.CoreCompileInputs.cache
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.sourcelink.json
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.D8605A4B.Up2Date
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\refint\AGI.Morn.Infrastructure.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.pdb
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\AGI.Morn.Infrastructure.genruntimeconfig.cache
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGIMorn.Infrastructure\obj\Debug\net8.0\ref\AGI.Morn.Infrastructure.dll

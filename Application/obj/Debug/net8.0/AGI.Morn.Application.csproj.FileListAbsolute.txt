@@ -1,0 +1,61 @@
+C:\Users\AGI\source\repos\Morn Agi\AGI.Morn.Application\bin\Debug\net8.0\AGI.Morn.Application.deps.json
+C:\Users\AGI\source\repos\Morn Agi\AGI.Morn.Application\bin\Debug\net8.0\AGI.Morn.Application.dll
+C:\Users\AGI\source\repos\Morn Agi\AGI.Morn.Application\bin\Debug\net8.0\AGI.Morn.Application.pdb
+C:\Users\AGI\source\repos\Morn Agi\AGI.Morn.Application\bin\Debug\net8.0\AGI.Morn.Domain.dll
+C:\Users\AGI\source\repos\Morn Agi\AGI.Morn.Application\bin\Debug\net8.0\AGI.Morn.Domain.pdb
+C:\Users\AGI\source\repos\Morn Agi\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.csproj.AssemblyReference.cache
+C:\Users\AGI\source\repos\Morn Agi\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGI\source\repos\Morn Agi\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.AssemblyInfoInputs.cache
+C:\Users\AGI\source\repos\Morn Agi\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.AssemblyInfo.cs
+C:\Users\AGI\source\repos\Morn Agi\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.csproj.CoreCompileInputs.cache
+C:\Users\AGI\source\repos\Morn Agi\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.7D61CAA5.Up2Date
+C:\Users\AGI\source\repos\Morn Agi\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.dll
+C:\Users\AGI\source\repos\Morn Agi\AGI.Morn.Application\obj\Debug\net8.0\refint\AGI.Morn.Application.dll
+C:\Users\AGI\source\repos\Morn Agi\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.pdb
+C:\Users\AGI\source\repos\Morn Agi\AGI.Morn.Application\obj\Debug\net8.0\ref\AGI.Morn.Application.dll
+D:\.NET8 Seat Project\Morn Agi\AGI.Morn.Application\bin\Debug\net8.0\AGI.Morn.Application.deps.json
+D:\.NET8 Seat Project\Morn Agi\AGI.Morn.Application\bin\Debug\net8.0\AGI.Morn.Application.dll
+D:\.NET8 Seat Project\Morn Agi\AGI.Morn.Application\bin\Debug\net8.0\AGI.Morn.Application.pdb
+D:\.NET8 Seat Project\Morn Agi\AGI.Morn.Application\bin\Debug\net8.0\AGI.Morn.Domain.dll
+D:\.NET8 Seat Project\Morn Agi\AGI.Morn.Application\bin\Debug\net8.0\AGI.Morn.Domain.pdb
+D:\.NET8 Seat Project\Morn Agi\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.csproj.AssemblyReference.cache
+D:\.NET8 Seat Project\Morn Agi\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET8 Seat Project\Morn Agi\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.AssemblyInfoInputs.cache
+D:\.NET8 Seat Project\Morn Agi\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.AssemblyInfo.cs
+D:\.NET8 Seat Project\Morn Agi\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.csproj.CoreCompileInputs.cache
+D:\.NET8 Seat Project\Morn Agi\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.7D61CAA5.Up2Date
+D:\.NET8 Seat Project\Morn Agi\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.dll
+D:\.NET8 Seat Project\Morn Agi\AGI.Morn.Application\obj\Debug\net8.0\refint\AGI.Morn.Application.dll
+D:\.NET8 Seat Project\Morn Agi\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.pdb
+D:\.NET8 Seat Project\Morn Agi\AGI.Morn.Application\obj\Debug\net8.0\ref\AGI.Morn.Application.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\AGI.Morn.Application\bin\Debug\net8.0\AGI.Morn.Application.deps.json
+D:\.NET8 Seat Project\Morn Agi Back-End\AGI.Morn.Application\bin\Debug\net8.0\AGI.Morn.Application.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\AGI.Morn.Application\bin\Debug\net8.0\AGI.Morn.Application.pdb
+D:\.NET8 Seat Project\Morn Agi Back-End\AGI.Morn.Application\bin\Debug\net8.0\AGI.Morn.Domain.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\AGI.Morn.Application\bin\Debug\net8.0\AGI.Morn.Domain.pdb
+D:\.NET8 Seat Project\Morn Agi Back-End\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.csproj.AssemblyReference.cache
+D:\.NET8 Seat Project\Morn Agi Back-End\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET8 Seat Project\Morn Agi Back-End\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.AssemblyInfoInputs.cache
+D:\.NET8 Seat Project\Morn Agi Back-End\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.AssemblyInfo.cs
+D:\.NET8 Seat Project\Morn Agi Back-End\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.csproj.CoreCompileInputs.cache
+D:\.NET8 Seat Project\Morn Agi Back-End\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.7D61CAA5.Up2Date
+D:\.NET8 Seat Project\Morn Agi Back-End\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\AGI.Morn.Application\obj\Debug\net8.0\refint\AGI.Morn.Application.dll
+D:\.NET8 Seat Project\Morn Agi Back-End\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.pdb
+D:\.NET8 Seat Project\Morn Agi Back-End\AGI.Morn.Application\obj\Debug\net8.0\ref\AGI.Morn.Application.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGI.Morn.Application\bin\Debug\net8.0\AGI.Morn.Application.deps.json
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGI.Morn.Application\bin\Debug\net8.0\AGI.Morn.Application.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGI.Morn.Application\bin\Debug\net8.0\AGI.Morn.Application.pdb
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGI.Morn.Application\bin\Debug\net8.0\AGI.Morn.Domain.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGI.Morn.Application\bin\Debug\net8.0\AGI.Morn.Domain.pdb
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.csproj.AssemblyReference.cache
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.AssemblyInfoInputs.cache
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.AssemblyInfo.cs
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.csproj.CoreCompileInputs.cache
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.sourcelink.json
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.7D61CAA5.Up2Date
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGI.Morn.Application\obj\Debug\net8.0\refint\AGI.Morn.Application.dll
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGI.Morn.Application\obj\Debug\net8.0\AGI.Morn.Application.pdb
+E:\demo\Back\Seat-project-clean-architecture\Morn Agi Back-End\AGI.Morn.Application\obj\Debug\net8.0\ref\AGI.Morn.Application.dll

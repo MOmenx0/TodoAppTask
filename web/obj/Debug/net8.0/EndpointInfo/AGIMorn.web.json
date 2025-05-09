@@ -1,0 +1,864 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "API Auth Demo",
+    "description": "A simple demo with JWT Auth APIs and Basic Auth APIs",
+    "contact": {
+      "name": "GitHub Repository",
+      "url": "https://github.com/dotnet-labs/ApiAuthDemo",
+      "email": ""
+    },
+    "version": "v1"
+  },
+  "paths": {
+    "/ProudctEndPoint/GetAll": {
+      "get": {
+        "tags": [
+          "ProudctEndPoint"
+        ],
+        "operationId": "GetAll",
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProudctDtoIEnumerableDataResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ProudctEndPoint/GetProudctById": {
+      "get": {
+        "tags": [
+          "ProudctEndPoint"
+        ],
+        "operationId": "GetProudctById",
+        "parameters": [
+          {
+            "name": "Id",
+            "in": "query",
+            "required": true,
+            "style": "form",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProudctDtoDataResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ProudctEndPoint/GetWithFilter": {
+      "post": {
+        "tags": [
+          "ProudctEndPoint"
+        ],
+        "operationId": "GetWithFilter",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/getAllProudctFilteredQuery"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProudctDtoPaginatedListDataResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ProudctEndPoint/CreateProudct": {
+      "post": {
+        "tags": [
+          "ProudctEndPoint"
+        ],
+        "operationId": "CreateProudct",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateProudctQueriy"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Int32DataResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ProudctEndPoint/Update": {
+      "put": {
+        "tags": [
+          "ProudctEndPoint"
+        ],
+        "operationId": "Update",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/updateProudctQuery"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Int32DataResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ProudctPrand/GetAllPrands": {
+      "get": {
+        "tags": [
+          "ProudctPrand"
+        ],
+        "operationId": "GetAllPrands",
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/productPrandIEnumerableDataResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ProudctPrand/createPrands": {
+      "post": {
+        "tags": [
+          "ProudctPrand"
+        ],
+        "operationId": "createPrands",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/productPrandCommand"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Int32DataResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ProudctType/TypeProudct": {
+      "get": {
+        "tags": [
+          "ProudctType"
+        ],
+        "operationId": "TypeProudct",
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/productTypesIEnumerableDataResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/TestsEndPoint/GetAllTests": {
+      "get": {
+        "tags": [
+          "TestsEndPoint"
+        ],
+        "operationId": "GetAllTests",
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TestsIEnumerableDataResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/TestsEndPoint/GetTestById": {
+      "get": {
+        "tags": [
+          "TestsEndPoint"
+        ],
+        "operationId": "GetTestById",
+        "parameters": [
+          {
+            "name": "Id",
+            "in": "query",
+            "required": true,
+            "style": "form",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TestsDataResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/TestsEndPoint/GetOne": {
+      "get": {
+        "tags": [
+          "TestsEndPoint"
+        ],
+        "operationId": "GetOne",
+        "parameters": [
+          {
+            "name": "Id",
+            "in": "query",
+            "required": true,
+            "style": "form",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TestsDataResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/TestsEndPoint/CreateTest": {
+      "post": {
+        "tags": [
+          "TestsEndPoint"
+        ],
+        "operationId": "CreateTest",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateTestQuery"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Int32DataResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "CreateProudctQueriy": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "price": {
+            "type": "number",
+            "format": "double"
+          },
+          "pictureUrl": {
+            "type": "string",
+            "nullable": true
+          },
+          "productTypeId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "productBrandId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CreateTestQuery": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "authorName": {
+            "type": "string",
+            "nullable": true
+          },
+          "authorDescription": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "HttpStatusCode": {
+        "enum": [
+          100,
+          101,
+          102,
+          103,
+          200,
+          201,
+          202,
+          203,
+          204,
+          205,
+          206,
+          207,
+          208,
+          226,
+          300,
+          301,
+          302,
+          303,
+          304,
+          305,
+          306,
+          307,
+          308,
+          400,
+          401,
+          402,
+          403,
+          404,
+          405,
+          406,
+          407,
+          408,
+          409,
+          410,
+          411,
+          412,
+          413,
+          414,
+          415,
+          416,
+          417,
+          421,
+          422,
+          423,
+          424,
+          426,
+          428,
+          429,
+          431,
+          451,
+          500,
+          501,
+          502,
+          503,
+          504,
+          505,
+          506,
+          507,
+          508,
+          510,
+          511
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "Int32DataResponse": {
+        "type": "object",
+        "properties": {
+          "isSuccess": {
+            "type": "boolean"
+          },
+          "statusCode": {
+            "$ref": "#/components/schemas/HttpStatusCode"
+          },
+          "responseMessage": {
+            "type": "string",
+            "nullable": true
+          },
+          "responseData": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProductSpecPrams": {
+        "type": "object",
+        "properties": {
+          "pageIndex": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "pageSize": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "brandId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "typeId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "sort": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProudctDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "price": {
+            "type": "number",
+            "format": "double"
+          },
+          "pictureUrl": {
+            "type": "string",
+            "nullable": true
+          },
+          "productType": {
+            "type": "string",
+            "nullable": true
+          },
+          "productPrand": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProudctDtoDataResponse": {
+        "type": "object",
+        "properties": {
+          "isSuccess": {
+            "type": "boolean"
+          },
+          "statusCode": {
+            "$ref": "#/components/schemas/HttpStatusCode"
+          },
+          "responseMessage": {
+            "type": "string",
+            "nullable": true
+          },
+          "responseData": {
+            "$ref": "#/components/schemas/ProudctDto"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProudctDtoIEnumerableDataResponse": {
+        "type": "object",
+        "properties": {
+          "isSuccess": {
+            "type": "boolean"
+          },
+          "statusCode": {
+            "$ref": "#/components/schemas/HttpStatusCode"
+          },
+          "responseMessage": {
+            "type": "string",
+            "nullable": true
+          },
+          "responseData": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ProudctDto"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProudctDtoPaginatedList": {
+        "type": "object",
+        "properties": {
+          "items": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ProudctDto"
+            },
+            "nullable": true
+          },
+          "pageNumber": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "totalPages": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "totalCount": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "hasPreviousPage": {
+            "type": "boolean",
+            "readOnly": true
+          },
+          "hasNextPage": {
+            "type": "boolean",
+            "readOnly": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProudctDtoPaginatedListDataResponse": {
+        "type": "object",
+        "properties": {
+          "isSuccess": {
+            "type": "boolean"
+          },
+          "statusCode": {
+            "$ref": "#/components/schemas/HttpStatusCode"
+          },
+          "responseMessage": {
+            "type": "string",
+            "nullable": true
+          },
+          "responseData": {
+            "$ref": "#/components/schemas/ProudctDtoPaginatedList"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Tests": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "authorName": {
+            "type": "string",
+            "nullable": true
+          },
+          "authorDescription": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TestsDataResponse": {
+        "type": "object",
+        "properties": {
+          "isSuccess": {
+            "type": "boolean"
+          },
+          "statusCode": {
+            "$ref": "#/components/schemas/HttpStatusCode"
+          },
+          "responseMessage": {
+            "type": "string",
+            "nullable": true
+          },
+          "responseData": {
+            "$ref": "#/components/schemas/Tests"
+          }
+        },
+        "additionalProperties": false
+      },
+      "TestsIEnumerableDataResponse": {
+        "type": "object",
+        "properties": {
+          "isSuccess": {
+            "type": "boolean"
+          },
+          "statusCode": {
+            "$ref": "#/components/schemas/HttpStatusCode"
+          },
+          "responseMessage": {
+            "type": "string",
+            "nullable": true
+          },
+          "responseData": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Tests"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "getAllProudctFilteredQuery": {
+        "type": "object",
+        "properties": {
+          "prams": {
+            "$ref": "#/components/schemas/ProductSpecPrams"
+          }
+        },
+        "additionalProperties": false
+      },
+      "productPrand": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "productPrandCommand": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "productPrandIEnumerableDataResponse": {
+        "type": "object",
+        "properties": {
+          "isSuccess": {
+            "type": "boolean"
+          },
+          "statusCode": {
+            "$ref": "#/components/schemas/HttpStatusCode"
+          },
+          "responseMessage": {
+            "type": "string",
+            "nullable": true
+          },
+          "responseData": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/productPrand"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "productTypes": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "productTypesIEnumerableDataResponse": {
+        "type": "object",
+        "properties": {
+          "isSuccess": {
+            "type": "boolean"
+          },
+          "statusCode": {
+            "$ref": "#/components/schemas/HttpStatusCode"
+          },
+          "responseMessage": {
+            "type": "string",
+            "nullable": true
+          },
+          "responseData": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/productTypes"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "updateProudctQuery": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "price": {
+            "type": "number",
+            "format": "double"
+          },
+          "pictureUrl": {
+            "type": "string",
+            "nullable": true
+          },
+          "productTypeId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "productPrandId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "http",
+        "description": "Enter JWT Bearer token **_only_**",
+        "scheme": "bearer",
+        "bearerFormat": "JWT"
+      },
+      "BasicAuth": {
+        "type": "http",
+        "scheme": "basic"
+      },
+      "OpenIdConnectAuth": {
+        "type": "openIdConnect",
+        "openIdConnectUrl": "https://login.microsoftonline.com/organizations/v2.0/.well-known/openid-configuration"
+      }
+    }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    },
+    {
+      "BasicAuth": [ ]
+    },
+    {
+      "OpenIdConnectAuth": [ ]
+    }
+  ]
+}

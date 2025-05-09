@@ -1,0 +1,6 @@
+@Morn_Agi_HostAddress = http://localhost:5224
+
+GET {{Morn_Agi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
