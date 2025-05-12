@@ -22,6 +22,8 @@ Implements CQRS using MediatR for separation of concerns
 
 Contains Commands, Handlers, and Models
 
+ add-migration  - ===> (Infrastructure) project 
+
 Connected to a SQL Server database
 
 Frontend:
